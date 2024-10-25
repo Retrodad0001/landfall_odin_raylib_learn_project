@@ -2,13 +2,15 @@ package landfall
 
 import "core:fmt"
 
+import "vendor:raylib"
+
 main :: proc() {
 	fmt.println("Hellope!")
 }
 
 /* ---------- NEXT ----------- */
 
-//TODO draw some text and complete atlas to learn SDL3
+//TODO draw some text and complete atlas to learn Raylib
 //TODO setup fps and delta-time and basic debug info
 //TODO show mouse position on debug info, is there IMGUI support?
 //TODO setup window with correct resolution and zoom
@@ -16,7 +18,6 @@ main :: proc() {
 /* ---------- BACKLOG --------
 
 HIGH PRIORITY BUT WAIT UPSTREAM
-    - update asap to SDL3 when available with official support
    
 PLANNED
 

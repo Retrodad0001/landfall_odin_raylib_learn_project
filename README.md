@@ -1,8 +1,8 @@
 # Landfall: a simple demo Turn-Based-Strategy game (not done yet)
 
-Created with the ODIN language, SDL3 framework and data oriented design mindset for the community and for personal learning
+Created with the ODIN language, Raylib framework and data oriented design mindset for the community and for personal learning
 
-Have fun with it and send me leaning feedback because this is my first game ever made with Odin and SDL3
+Have fun with it and send me leaning feedback because this is my first game ever made with Odin and Raylib
 
 ![Sample](https://github.com/user-attachments/assets/5ee35eca-1de8-4796-ae73-44ff5ac614d1)
 
@@ -26,6 +26,9 @@ Assets by www.kenney.nl :
 
 ODIN language : https://odin-lang.org/
 
-SDL3 official site : https://www.libsdl.org/
+Raylib official site : https://www.raylib.com/index.html
+
+Learning material ODIN + Raylib: https://www.youtube.com/@karl_zylinski
+
 
 

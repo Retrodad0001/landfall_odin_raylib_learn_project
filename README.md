@@ -4,6 +4,7 @@ Created with the ODIN language, SDL3 framework and data oriented design mindset 
 
 Have fun with it and send me leaning feedback because this is my first game ever made with Odin and SDL3
 
+![Sample](https://github.com/user-attachments/assets/5ee35eca-1de8-4796-ae73-44ff5ac614d1)
 
 Assets by www.kenney.nl :
 
